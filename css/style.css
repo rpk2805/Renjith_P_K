@@ -918,12 +918,12 @@ textarea {
 
 .projectImage {
   /* height: 200px; */
-  width: 210px;
+  width: 149px;
 }
 .imageButton {
   /* height: 100px; */
-  width: 210px;
-  margin-top: 64px;
+  width: 154px;
+  margin-top: 45px;
 }
 .column {
   float: left;
@@ -937,5 +937,5 @@ textarea {
   display: flex;
 }
 .youtubeImage {
-  width: 100px;
+  width: 90px;
 }
