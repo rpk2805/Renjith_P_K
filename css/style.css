@@ -153,6 +153,7 @@ textarea {
 @media only screen and (max-width: 37.5em) {
   .heading-sec__sub {
     font-size: 1.8rem;
+    text-align: left;
   }
 }
 .heading-sec__sub--lt {
@@ -418,6 +419,7 @@ textarea {
 @media only screen and (max-width: 37.5em) {
   .projects__row-content-desc {
     font-size: 1.7rem;
+    text-align: left;
   }
 }
 
@@ -918,12 +920,12 @@ textarea {
 
 .projectImage {
   /* height: 200px; */
-  width: 149px;
+  width: 210px;
 }
 .imageButton {
   /* height: 100px; */
-  width: 154px;
-  margin-top: 45px;
+  width: 210px;
+  margin-top: 64px;
 }
 .column {
   float: left;
@@ -937,5 +939,5 @@ textarea {
   display: flex;
 }
 .youtubeImage {
-  width: 90px;
+  width: 100px;
 }
